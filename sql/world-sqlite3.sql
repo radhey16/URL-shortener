@@ -1,7 +1,3 @@
--- world.sql -- for SQLite 3
--- prepared by Bill Weinman
--- version 1.4 2018-04-04
-
 --
 -- Table structure for table City
 --
