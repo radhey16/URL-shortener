@@ -1,7 +1,3 @@
--- world database
--- mysql version
--- as of 2021-03-15 bw
-
 CREATE DATABASE IF NOT EXISTS world DEFAULT CHARSET = utf8;
 USE world;
 
