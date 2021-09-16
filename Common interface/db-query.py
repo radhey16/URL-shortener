@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-# Copyright 2021 BHG [bw.org]
-# db-query.py as of 2021-04-07 bw
 
 import sqlite3
 
