@@ -1,5 +1,4 @@
 
-
 CREATE DATABASE IF NOT EXISTS scratch DEFAULT CHARSET = utf8;
 USE scratch;
 
