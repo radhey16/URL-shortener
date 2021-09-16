@@ -1,8 +1,3 @@
--- album database
--- sqlite3 version
--- version 1.4 2018-04-04
---
-
 --
 -- Table structure for table album
 --
