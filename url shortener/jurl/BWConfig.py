@@ -1,8 +1,4 @@
 #!/usr/bin/python3
-# BWConfig.py by Bill Weinman <http://bw.org/contact/>
-# Copyright (c) 2010 The BearHeart Group, LLC
-#
-
 __version__ = '1.1.0'
 
 
