@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-# Copyright 2021 BHG [bw.org]
-# as of 2021-04-10 bw
 
 import mysql.connector as mysql
 
