@@ -1,7 +1,3 @@
--- test database
--- sqlite3 version
--- version 1.4 2018-04-04
-
 DROP TABLE IF EXISTS customer;
 CREATE TABLE customer (
     id              INTEGER PRIMARY KEY, 
