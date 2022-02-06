@@ -2,7 +2,6 @@
 import sqlite3
 import mysql.connector as mysql
 
-
 MY_HOST = 'pluto.local'
 MY_USER = 'appuser'
 MY_PASS = 'Spartacus'
