@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 from BWDB import BWDB, BWErr
 
-
 GLOBALS = {}
-
 
 def connect():
     try:
